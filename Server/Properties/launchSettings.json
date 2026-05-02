@@ -4,6 +4,11 @@
       "commandName": "Executable",
       "executablePath": "D:\\Leif\\GitHub\\MapLoaf\\Server\\bin\\Debug\\net8.0\\MapLoafServer.exe",
       "commandLineArgs": "local"
+    },
+    "MapLoafServer Release": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Leif\\GitHub\\MapLoaf\\Server\\bin\\Release\\net8.0\\MapLoafServer.exe",
+      "commandLineArgs": "local"
     }
   }
 }
