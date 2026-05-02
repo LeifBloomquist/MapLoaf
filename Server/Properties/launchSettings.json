@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MapLoafServer Debug": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Leif\\GitHub\\MapLoaf\\Server\\bin\\Debug\\net8.0\\MapLoafServer.exe",
+      "commandLineArgs": "local"
+    }
+  }
+}
