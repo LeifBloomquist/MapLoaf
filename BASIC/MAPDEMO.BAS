@@ -1,0 +1,3 @@
+10 X=X+1:Y=Y+1
+20 U$="HTTP://192.168.7.99/TEST/MAP.PRG?X="+STR$(X)+"&Y="+STR$(Y)
+30 LOAD U$,9,1
